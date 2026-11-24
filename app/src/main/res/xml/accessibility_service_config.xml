@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/acc_desc"
+    android:accessibilityEventTypes="typeViewClicked|typeViewLongClicked|typeViewTextChanged|typeViewFocused|typeWindowStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows|flagIncludeNotImportantViews"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="true"
+    android:notificationTimeout="0"
+    android:interactiveUiTimeout="0"
+    android:settingsActivity="de.mikromakro.replay.MainActivity" />

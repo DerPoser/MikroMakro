@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MikroMakro</string>
+    <string name="acc_desc">MikroMakro nimmt Tippen, Wischen und Texteingaben auf und spielt sie auf diesem Gerät wieder ab. Die Bedienungshilfe wird nur dafür benutzt. Aufnahmen bleiben auf dem Handy.</string>
+</resources>
